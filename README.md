@@ -8,4 +8,4 @@ I'm currently studying on the university Simon Bolivar of Caracas (Ve) and worki
 
 <hr/>
 
-If you want to reach me you can send me a DM on instagram @valeen_te or just send me an e-mail!
+If you want to reach me you can send me a DM on instagram or X(Twitter) @valeen_te.
