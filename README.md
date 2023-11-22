@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan</h1>
-<h3 align="center">I a developer from Venezuela, in this profile I share my projects and learnings as a student. Here you'll find a variety of repositories ranging from exercises and projects to personal explorations. Welcome to my GitHub!</h3>
+<h3 align="center">I a developer from Venezuela, in this profile I share my projects and learnings as a student. Here you'll find a variety of repositories ranging from exercises and projects to personal explorations.<br> Welcome to my GitHub!</h3>
 
 - 🔭 I'm currently studying: **Eng.Electronic.**
 
